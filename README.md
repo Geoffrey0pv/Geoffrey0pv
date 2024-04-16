@@ -10,13 +10,13 @@
 Hello, my name is Geoffrey. I really enjoy sports, such as playing soccer, going to the gym, doing calisthenics, mountain biking, playing chess, and dancing! I enjoy learning new things every day. I am seeking to carve out a place for myself in the world of software and to contribute my bit to the world 🎆.
 
 
-**Skills**
+**Skills 💪**
   - Java 👾
   - Python 🥇
   - Software design 📧
   - Scrum 🤖
 
-**About me**
+**About me 🧑**
 
 - 🔭 I’m currently working my personal projects
 - 🌱 I’m currently learning about Python, Data Engineering, Machine Learning

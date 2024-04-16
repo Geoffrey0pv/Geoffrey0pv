@@ -6,6 +6,7 @@
 ![image](https://github.com/Geoffrey0pv/Geoffrey-Pasaje/assets/120831822/d283e2ed-8a87-4a7c-88b4-f42c6ac08d01)
 
 
+
 Hello, my name is Geoffrey. I really enjoy sports, such as playing soccer, going to the gym, doing calisthenics, mountain biking, playing chess, and dancing! I enjoy learning new things every day. I am seeking to carve out a place for myself in the world of software and to contribute my bit to the world 🎆.
 
 
@@ -27,6 +28,7 @@ Hello, my name is Geoffrey. I really enjoy sports, such as playing soccer, going
 **My projects 😎**
 
 ![Bomberzelda](https://github.com/Geoffrey0pv/Geoffrey-Pasaje/assets/120831822/0957381a-3ef1-40a6-8076-267cd146fe13)
+
 
 
 

@@ -2,8 +2,11 @@
 <h3 align="center">Hi, my name is Geoffrey. I really enjoy sports, such as playing soccer, going to the gym, doing calisthenics, mountain biking, playing chess, and dancing! I enjoy learning new things every day. I am seeking to carve out a place for myself in the world of software and to contribute my bit to the world 🎆.
 </h3>
 
+<h3 align="center">PROFILE VISITS</h3>
+<p align="center"> <img src="https://profile-counter.glitch.me/{geoffrey0pv}/count.svg" alt="Geoffrey0pv" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Geoffrey0pv&color=green" alt="Geoffrey0pv" /> </p>
+_________________
+
 <img align="right" height="305px" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 - 🔭 I’m currently working on **... functional programming in scala, design patterns in Java, machine learing & inventory management in python & relational databases with Mysql**

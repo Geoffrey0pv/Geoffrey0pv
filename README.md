@@ -10,7 +10,7 @@ _________________
 <img align="right" height="305px" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 - 🔭 I’m currently working on **... functional programming in scala, design patterns in Java, machine learing & inventory management in python & relational databases with Mysql**
-- 🌱 I’m currently learning **Java, Python, Scala, pl/sql**
+- 🌱 I’m currently learning **Java, Python, Scala, PL/SQL**
 - 👯 I’m looking to work **in java Back-end developement, functional programming, machine learning, inventory management**
 - 💬 Ask me about **what ever you want**
 - 📫 How to reach me **geoffreypv00@gmail.com**
@@ -22,7 +22,7 @@ _________________
 <a href="https://www.linkedin.com/in/geoffrey-pasaje-vidal-585108267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geoffrey-Pasaje-Vidal" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 My skills & tech stack::</h3>
+<h3 align="left">💻 My skills & tech stack:</h3>
 
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="50" height="50"/>  </a> <a href="https://www.oracle.com/co/database/technologies/appdev/plsql.html#:~:text=PL%2FSQL%20es%20un%20lenguaje,de%20la%20base%20de%20datos." target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="html5" width="50" height="50"/>  </p>
 

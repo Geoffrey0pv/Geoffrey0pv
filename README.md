@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World! 🎮😎 <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44d.gif" width="40px"></h1>
-<h3 align="center">"Hi, my name is Geoffrey. I really enjoy sports, such as playing soccer, going to the gym, doing calisthenics, mountain biking, playing chess, and dancing! I enjoy learning new things every day. I am seeking to carve out a place for myself in the world of software and to contribute my bit to the world 🎆.
-"</h3>
+<h3 align="center">Hi, my name is Geoffrey. I really enjoy sports, such as playing soccer, going to the gym, doing calisthenics, mountain biking, playing chess, and dancing! I enjoy learning new things every day. I am seeking to carve out a place for myself in the world of software and to contribute my bit to the world 🎆.
+</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Geoffrey0pv&color=green" alt="Geoffrey0pv" /> </p>
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java, Python, Scala**
 - 👯 I’m looking to collaborate on **Collaborate on other students, teachers and other industry developers and also open source proyects**
 - 💬 Ask me about **what ever you want**
-- 📫 How to reach me **Geoffreypv00@gmail.com**
+- 📫 How to reach me **geoffreypv00@gmail.com**
 - ⚡ Fun facts about me: **I like chess**
 
 <h3 align="left">📨 Connect with me:</h3>
@@ -23,12 +23,9 @@
 
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="html5" width="50" height="50"/> </p>
 
-
-
-
-
-
 <h3 align="left">📈 My GitHub Stats:</h3>
+
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=geoffrey0pv&show_icons=true&theme=radical" alt="geoffrey0pv" width="60%">
 

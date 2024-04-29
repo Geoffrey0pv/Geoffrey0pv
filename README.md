@@ -9,7 +9,7 @@ _________________
 
 <img align="right" height="305px" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-- 🔭 I’m currently working on **... functional programming in scala, design patterns in Java, machine learing & inventory management in python & relational databases with Mysql**
+- 🔭 I’m currently working on **... functional programming in scala, design patterns in Java, machine learning, inventory management in python & relational databases with PL/SQL**
 - 🌱 I’m currently learning **Java, Python, Scala, PL/SQL**
 - 👯 I’m looking to work **in java Back-end developement, functional programming, machine learning, inventory management**
 - 💬 Ask me about **what ever you want**

@@ -9,7 +9,7 @@
 
 ___
 
-<img align="right" height="200px" alt="GIF" src="https://github.com/Geoffrey0pv/Geoffrey0pv/assets/120831822/bc36af99-8e73-466d-8513-7ebcc4be7d8c" />
+<img align="right" height="280px" width="480px" alt="GIF" src="https://github.com/Geoffrey0pv/Geoffrey0pv/assets/120831822/bc36af99-8e73-466d-8513-7ebcc4be7d8c" />
 
 ### About Me
 
@@ -17,12 +17,6 @@ ___
 - 👯 I’m looking to collaborate on **full-stack web development, functional programming, machine learning, and inventory management.**
 - 📫 How to reach me: **geoffreypv00@gmail.com**
 - ⚡ Fun fact: **I enjoy playing chess and exploring new tech!**
-
-### Connect with Me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/geoffrey-pasaje-vidal-585108267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geoffrey-Pasaje-Vidal" height="30" width="40" /></a>
-</p>
 
 ### My Skills & Tech Stack:
 
@@ -48,6 +42,12 @@ ___
   
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="plsql" width="50" height="50"/></a>
+</p>
+
+### Connect with Me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/geoffrey-pasaje-vidal-585108267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geoffrey-Pasaje-Vidal" height="30" width="40" /></a>
 </p>
 
 ### My GitHub Stats:

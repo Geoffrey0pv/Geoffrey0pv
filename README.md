@@ -9,7 +9,7 @@
 
 ___
 
-<img align="right" height="280px" width="480px" alt="GIF" src="https://github.com/Geoffrey0pv/Geoffrey0pv/assets/120831822/bc36af99-8e73-466d-8513-7ebcc4be7d8c" />
+<img align="right" height="260px" width="480px" alt="GIF" src="https://github.com/Geoffrey0pv/Geoffrey0pv/assets/120831822/bc36af99-8e73-466d-8513-7ebcc4be7d8c" />
 
 ### About Me
 

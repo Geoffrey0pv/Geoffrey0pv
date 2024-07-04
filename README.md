@@ -63,12 +63,12 @@ ______
 
 ### My GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=geoffrey0pv&show_icons=true&theme=radical" alt="geoffrey0pv" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffrey0pv&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="geoffrey0pv" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=v&show_icons=true&theme=radical" alt="geoffrey0pv" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="geoffrey0pv" width="50%">
 
 ### 🔥 My Streak:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffrey0pv&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=tokyonight" alt="mystreak"/>
 
 _______
 

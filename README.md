@@ -57,7 +57,7 @@ ___
   <a href="https://www.scala-lang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="scala" width="50" height="50"/></a>
   <a href="https://www.django-rest-framework.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="djangorest" width="50" height="50"/></a>
   <a href="https://www.djangoproject.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/></a>
 </p>
 
 

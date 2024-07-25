@@ -2,8 +2,9 @@
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{geoffrey0pv}/count.svg" alt="Geoffrey0pv" /> </p>
 
+**<h3 align="center" class="futuristic-font"> Hi, I'm Geoffrey!  </h3>**
 
-**<h3 align="center" class="futuristic-font"> Hi, I'm Geoffrey! Checkout my portfolio HERE -> https://my-portfolio-cyan-six-93.vercel.app 🤠 </h3>**
+**<h3 align="center" class="futuristic-font"> Checkout my portfolio HERE -> https://my-portfolio-cyan-six-93.vercel.app 🤠 </h3>**
 
 **<h3 align="center" class="futuristic-font"> Reach me: [geoffreypv00@gmail.com](mailto:geoffreypv00@gmail.com) </h3>**
 

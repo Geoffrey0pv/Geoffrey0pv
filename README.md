@@ -37,7 +37,7 @@ ___
 
 
 <p align="center">
-  <strong>Data Bases</strong><br>
+  <strong>Databases</strong><br>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/es" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="50" height="50"/></a>

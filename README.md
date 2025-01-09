@@ -65,5 +65,7 @@ ___
 <h3 align="center">🔥 My Streak:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoffrey0pv&theme=tokyonight" alt="mystreak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Geoffrey0pv&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </p>

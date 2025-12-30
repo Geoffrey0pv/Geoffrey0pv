@@ -1,9 +1,6 @@
-**<h3 align="center" class="futuristic-font"> Hi, I'm Geoffrey!  </h3>**
+**<h3 align="center" class="futuristic-font"> Hi, I'm Geoffrey, I'm very curious and like build things!  </h3>**
 
-**<h3 align="center" class="futuristic-font"> Checkout my portfolio HERE -> https://geoffreypasaje.netlify.app 🤠 </h3>**
-
-**<h3 align="center" class="futuristic-font"> Reach me: [geoffreypv00@gmail.com](mailto:geoffreypv00@gmail.com) </h3>**
-
+**<h3 align="center" class="futuristic-font"> [Checkout my portfolio HERE 🤠](https://geoffreypasaje.netlify.app) </h3>**
 ___
 
 <h3 align="center">📚 My Skills & Tech Stack:</h3>
@@ -59,7 +56,8 @@ ___
 <h3 align="center">🖇️ Connect with Me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/geoffrey-pasaje-vidal-585108267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geoffrey-Pasaje-Vidal" height="30" width="40" /></a>
+  <a href="mailto:geoffreypv00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/geoffrey-esteban-pasaje-vidal-585108267/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 <hr>

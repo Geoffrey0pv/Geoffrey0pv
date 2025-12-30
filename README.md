@@ -89,3 +89,7 @@ ___
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Geoffrey0pv&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=geoffrey0pv&theme=blue-green" alt="GitHub Streak" /></a>
+</p>
